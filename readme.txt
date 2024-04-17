@@ -1,0 +1,2 @@
+- Vistas cabecera y pie a directorio vistas
+- Ficheros xml a directorio modelos/datos_xml
